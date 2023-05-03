@@ -24,11 +24,11 @@ Here is the help for my COMMANDS."""
 ✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- Lazy Princess is an open source project. 
-- Source - https://github.com/LazyDeveloperr/LazyPrincess  
+<b>- Lazy Princess is an Private project. 
+- Source - <code>Currently Not Available</code>
 
 <b>DEVS:</b>
-- <a href=https://t.me/GxToS>Dᴇᴠɪɴ' [Oғғʟɪɴᴇ]</a>"""
+- <a href=https://t.me/GxToS>Dᴇᴠɪɴ' [Oғғʟɪɴᴇ]</a> </b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
