@@ -1225,6 +1225,7 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [ 
 	    InlineKeyboardButton(text="⚡ʜᴏᴡ 2 ᴅᴏᴡɴʟᴏᴀᴅ⚡", url='https://telegram.me/LazyDeveloper'),
+            InlineKeyboardButton(text="⚡myr", url='https://telegram.me/LazyDeveloper'),
         ] 
     )
     if offset != "":
