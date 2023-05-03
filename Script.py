@@ -28,7 +28,7 @@ Here is the help for my COMMANDS."""
 - Source - https://github.com/LazyDeveloperr/LazyPrincess  
 
 <b>DEVS:</b>
-- <a href=https://t.me/LazyDeveloper>LazyDeveloper</a>"""
+- <a href=https://t.me/GxToS>Dᴇᴠɪɴ' [Oғғʟɪɴᴇ]</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and LazyPriness will respond whenever that keyword hits the message
